@@ -1,0 +1,4 @@
+[submodule "nutricalc_app"]
+	path = nutricalc_app
+	url = https://github.com/BatCave-2003/nutricalc_app.git
+	branch = staging
